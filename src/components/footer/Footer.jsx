@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Welcome to CineFacts, where cinematic wonder awaits! Delve into the world
+                    Welcome to MoviYapa, where cinematic wonder awaits! Delve into the world
                     of movies like never before, with access to trailers, genres, in-depth character
                     insights, and comprehensive movie details for every title. Explore, Engage,
                     and Experience the magic of cinema. © 2024 CineFacts. All Rights Reserved.
