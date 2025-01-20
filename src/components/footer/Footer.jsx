@@ -25,7 +25,7 @@ const Footer = () => {
                     Welcome to MoviYapa, where cinematic wonder awaits! Delve into the world
                     of movies like never before, with access to trailers, genres, in-depth character
                     insights, and comprehensive movie details for every title. Explore, Engage,
-                    and Experience the magic of cinema. © 2024 CineFacts. All Rights Reserved.
+                    and Experience the magic of cinema. © 2024 MoviYapa. All Rights Reserved.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
